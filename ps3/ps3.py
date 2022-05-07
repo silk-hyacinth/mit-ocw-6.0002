@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Problem Set 3: Simulating robots
-# Name:
+# Name: silk-hyacinth b* * *8  8w*W*W** 
 # Collaborators (discussion):
 # Time:
 
