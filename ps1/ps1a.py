@@ -1,6 +1,6 @@
 ###########################
 # 6.0002 Problem Set 1a: Space Cows 
-# Name:
+# Name: silk-hyacinth
 # Collaborators:
 # Time: 2/27
 
