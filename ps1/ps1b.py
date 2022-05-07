@@ -1,6 +1,6 @@
 ###########################
 # 6.0002 Problem Set 1b: Space Change
-# Name: Benjamin Wang
+# Name: B********* ****
 # Collaborators: none
 # Time: 1hr 45min 3/2/22
 # Author: charz, cdenise
