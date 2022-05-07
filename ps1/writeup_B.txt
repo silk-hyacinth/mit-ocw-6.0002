@@ -1,0 +1,16 @@
+ONE:
+
+    It would be difficult because a brute force would have to check through all 2^30 possible permutations of the 30 di-
+    fferent egg weights. That is an astronomically high number, which will only get even more astronomically high as n
+    scales up.
+
+TWO:
+
+    I would try to just shove the biggest egg into the ship every single time, as long as it fits in the ship. I forgot
+    what "objective function" and "constraints" are but yea lol
+
+THREE:
+
+    No; here is counter example
+
+    Total weight = 8, egg weights [1, 4, 5]. Best combo is 2:[4, 4] but greedy returns worse at 4:[5, 1, 1, 1]

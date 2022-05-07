@@ -1,0 +1,18 @@
+ONE:
+
+    From compare_cow_transport_algorithms, I see that the greedy algorithm takes ~5x10^-5 seconds to run for the given
+    data, while the brute force one takes ~5*10^-1 seconds. This difference in speed is because the brute force algorit-
+    hm needs to check every single possible permutation, meaning that it is exponential to the number of cows in the in-
+    put, as opposed to the greedy algorithm, which only checks through the list as many times as there are cows.
+
+TWO:
+
+    The greedy algorithm does not return the optimal solution, as there are cases that it misses due to it only checking
+    the immediate next highest number; any time there is a cow that isn't the largest that still fits, the greedy algor-
+    ithm loses accuracy.
+
+THREE:
+
+    The brute force algorithm does always return the optimal solution. This is because every single possible permutation
+    is checked, meaning it would not be possible to create a solution this algorithm has already confirmed to be not as
+    good as the one it returns.
