@@ -1,0 +1,29 @@
+
+Part A: im lazy to write right now
+
+Part B:
+
+    r^2 is less; curves are more tightly fit; and it supports our global warming more.
+    this is cuz we have a much larger sample and so it'll be closer. Variance go down
+    as sample size go up. 100 cities would make it even better. Cuz it's the mean of all of them.
+    21 cities in same region would make the sample biased, however.
+
+Part D.I:
+
+    The high degree has the best R^2 (but not that good cuz there's too many points and polyfit just
+    gives up lol), and physically the degree 20 one does best.
+
+Part D.II
+
+    so yea. obviously the linear model had the best root mean square error. Linear did the best cuz
+    it's linear; more co2 more temperature and we are pumping co2 at a fairly linear pace. Obviously it's not going to
+    be quadratic and suddenly crash down lol.
+
+    The A.4.II data would have probably predicted something similar but with more error since that one had more error.
+
+Part E
+
+    For some reason, temperature variation is going down. I have no idea why nor ideas to improve it other than to say
+    that the hypothesis was wrong! temperature variation is not going down!
+
+    Maybe some cities are skewing the average but yeah i dunno
